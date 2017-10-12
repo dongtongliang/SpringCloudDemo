@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: movie
+  cloud:
+    config:
+      uri: http://configserver:8888
